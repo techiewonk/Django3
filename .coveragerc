@@ -1,0 +1,2 @@
+[run]
+omit = *venv*, *clustering/tests.py, ./manage.py

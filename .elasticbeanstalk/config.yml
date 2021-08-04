@@ -1,0 +1,25 @@
+branch-defaults:
+  master:
+    environment: KMxtW-env
+    group_suffix: null
+ebbranch-defaults:
+  master:
+    environment: KMxtW-env
+environment-defaults:
+  Componentdb-env-1:
+    naster: null
+    repository: null
+global:
+  application_name: k-mxt-w
+  branch: null
+  default_ec2_keyname: null
+  default_platform: Python 3.7 running on 64bit Amazon Linux 2
+  default_region: eu-central-1
+  include_git_submodules: true
+  instance_profile: null
+  platform_name: null
+  platform_version: null
+  profile: eb-cli
+  repository: null
+  sc: git
+  workspace_type: Application

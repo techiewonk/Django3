@@ -1,0 +1,10 @@
+Django>=3.0.7
+pytz>=2020.1
+sqlparse>=0.3.1
+k-mxt-w3==1.0.6
+django-crispy-forms
+plotly==4.8.2
+pytest==6.2.4
+pytest-cov==2.11.1
+pytest-django
+#awsebcli
